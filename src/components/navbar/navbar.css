@@ -1,0 +1,12 @@
+.navbar{
+    height: 65px;
+    position: fixed;
+    top: 0;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.mobile-menu{
+    color: black;
+}
